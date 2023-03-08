@@ -1,6 +1,12 @@
 fun main(args: Array<String>) {
+    /**
+     * Аргументы переменной длинны
+     */
     println(sum(2,4,2,5))
     printAll(3,"One","Two")
+    /**
+     * Исключчения в котлин
+     */
 
     var number =0
     if (number !in 0..10) {
@@ -9,7 +15,7 @@ fun main(args: Array<String>) {
 
         )
     }
-    
+
 
 }
 
@@ -26,3 +32,5 @@ fun printAll(grade: Int, vararg messages: String) {
     for (m in messages)
         println(m)
 }
+
+
