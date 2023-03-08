@@ -100,3 +100,4 @@ fun studentsList (surname: String, name: String, mark: Int = 0){
 }
 
 fun sum (a: Int, b: Int, c: Int = 0, d: Int = 0) = a+b+c+d
+
