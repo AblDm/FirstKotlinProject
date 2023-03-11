@@ -1,4 +1,4 @@
-package trainingClasses;
+package trainingClassesAndMethods;
 
 public class Main {
     public static void main(String[] args) {
@@ -19,6 +19,8 @@ public class Main {
 
         System.out.println(trainingClassJ.getName().toLowerCase());
         System.out.println(trainingClassJ.getPassed());
+
+
 
 
 

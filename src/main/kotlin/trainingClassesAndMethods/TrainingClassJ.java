@@ -1,4 +1,4 @@
-package trainingClasses;
+package trainingClassesAndMethods;
 
 public class TrainingClassJ {
     private final String name;

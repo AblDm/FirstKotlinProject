@@ -1,6 +1,4 @@
-package trainingClasses
-
-import javax.management.Query.and
+package trainingClassesAndMethods
 
 class Student {
     var name: String? = null
